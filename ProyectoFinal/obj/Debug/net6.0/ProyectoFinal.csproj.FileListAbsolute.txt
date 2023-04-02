@@ -1,0 +1,15 @@
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/bin/Debug/net6.0/ProyectoFinal
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/bin/Debug/net6.0/ProyectoFinal.deps.json
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/bin/Debug/net6.0/ProyectoFinal.runtimeconfig.json
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/bin/Debug/net6.0/ProyectoFinal.dll
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/bin/Debug/net6.0/ProyectoFinal.pdb
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.csproj.AssemblyReference.cache
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.AssemblyInfoInputs.cache
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.AssemblyInfo.cs
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.csproj.CoreCompileInputs.cache
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.dll
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/refint/ProyectoFinal.dll
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.pdb
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ProyectoFinal.genruntimeconfig.cache
+/Users/jhonherrera/Downloads/PARQUESOFT/MODULO 4/NET/ProyectoFinal/ProyectoFinal/obj/Debug/net6.0/ref/ProyectoFinal.dll

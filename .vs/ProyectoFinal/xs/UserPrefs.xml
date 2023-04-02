@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E3AF2057-4FAA-4739-B270-0005720669DE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProyectoFinal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProyectoFinal/View.cs">
+    <Files>
+      <File FileName="ProyectoFinal/Controller/Controller.cs" Line="82" Column="37" />
+      <File FileName="ProyectoFinal/View/View.cs" Line="106" Column="67" />
+      <File FileName="ProyectoFinal/Model/Model.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProyectoFinal" expanded="True">
+            <Node name="ProyectoFinal" expanded="True">
+              <Node name="Controller" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
