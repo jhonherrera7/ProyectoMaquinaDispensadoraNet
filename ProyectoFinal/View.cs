@@ -108,7 +108,7 @@ namespace View
 
                         String vuelto = controller.CambioMonedas(productoConsumo.precio, valorIngresado);
 
-                        Console.WriteLine("\nEl producto comprado es: " + productoConsumo.nombre + "\n Su cambio es: " + vuelto);
+                        Console.WriteLine("\nEl producto comprado es: " + productoConsumo.nombre + "\nSu cambio es: " + vuelto);
                         
                         if (valorIngresado < productoConsumo.precio)
                         {

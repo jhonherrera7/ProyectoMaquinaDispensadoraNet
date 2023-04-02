@@ -101,16 +101,19 @@ namespace ProyectoFinal.Controller
                 {
                     cambio += " 500 ";
                     monedaVuelto -= 500;
+                    break;
                 }
                 else if (monedaVuelto % 200 == 0)
                 {
                     cambio += " 200 ";
                     monedaVuelto -= 200;
+                    break;
                 }
                 else if (monedaVuelto % 100 == 0)
                 {
                     cambio += " 100 ";
                     monedaVuelto -= 100;
+                    break;
                 }
             } while (monedaVuelto > 0);
 
